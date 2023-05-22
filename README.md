@@ -1,1 +1,1 @@
-These are some of the codesandboxes that I have created. I chose the ones where I have multiple iteratiosn all the others ones I have that were not cluded were either ones that I jsut fooled around with or they serve me no purpose
+These are some of the codesandboxes that I have created. I chose the ones where I have multiple iteratiosn all the others ones I have that were not cluded were either ones that I just fooled around with or they serve me no purpose
